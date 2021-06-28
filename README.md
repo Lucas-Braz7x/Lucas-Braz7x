@@ -52,9 +52,6 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
-
-<p align="center">Obrigado por vir:</p>
-<p align="center"><img src="https://lnkd.in/dbPcVnK"/></p>
 <!--
 **Lucas-Braz7x/Lucas-Braz7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
