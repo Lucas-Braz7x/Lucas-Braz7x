@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas! <br> Estudante de física e desenvolvimento frontend</h1>
+<h1 align="center">Olá, eu sou o Lucas! <br> Faço parte da Recode Pro 2021, estudo o desenvolvimento fullstack, mas o meu foco é o desenvolvimento frontend</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-braz-aab990118/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
