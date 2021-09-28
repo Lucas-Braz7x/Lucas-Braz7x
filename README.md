@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas! <br> Faço parte da Recode Pro 2021, estudo o desenvolvimento fullstack, mas o meu foco é o desenvolvimento frontend</h1>
+<h1 align="center">Olá, eu sou o Lucas! <br> Desenvolvedor fullstack em formação, com foco no desenvolvimento frontend</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-braz-aab990118/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,16 +15,19 @@
 </p>
 
 <p>
-  Estudo o desenvolvimento frontend utilizando html, css, js, jquey, bootstratp e react. Sou apaixonado por descobrir novas funcionalidades e por desenvolvimento. Quando posso gosto de me desafiar e me aventurar em projetos pessoais. Estou procurando formas de contribuir e engajar para com a comunidade.
+  Faço parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack jr, mas meu foco é o desenvolvimento frontend com a stack React. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais e até mesmo me arriscar no backend. Estou procurando formas de contribuir e engajar para com a comunidade.
 </p>
 
 - 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho 
-- 🌱 Estou estudando react e reforçando as bases em html, css e js 
+- 🌱 Cursando desenvolvimento fullstack pela <a href="https://www.recodepro.org.br/">Recode Pro</a> e estudando React
 - 🤔 Procurando ser mais ativo na comunidade dev tanto para aprender mais, quanto para ajudar de alguma forma e aumentar o networking
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Lucas-Braz7x&show_icons=true&theme=dracula)
+<div>
+  ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Lucas-Braz7x&show_icons=true&theme=dracula)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Braz7x&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Braz7x&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <h2>Tecnologias casuais: </h2>
 <p>
