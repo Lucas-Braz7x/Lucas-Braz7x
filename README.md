@@ -22,6 +22,8 @@
 - 🌱 Cursando desenvolvimento fullstack pela <a href="https://www.recodepro.org.br/">Recode Pro</a> e estudando React
 - 🤔 Procurando ser mais ativo na comunidade dev tanto para aprender mais, quanto para ajudar de alguma forma e aumentar o networking
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Brax7x)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=Lucas-Braz7x&show_icons=true&theme=dracula)
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Braz7x&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
