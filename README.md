@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas! <br> Desenvolvedor fullstack em formação, com foco no desenvolvimento frontend</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-braz-aab990118/">
+  <a href="https://br.linkedin.com/in/lucas-braz-dutra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/tchubiross/">
