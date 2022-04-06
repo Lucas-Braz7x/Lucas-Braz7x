@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  Faço parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack jr, mas meu foco é o desenvolvimento frontend com a stack React. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais e até mesmo me arriscar no backend. Estou procurando formas de contribuir e engajar para com a comunidade.
+  Faço parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack jr, tenho mais afinidade com o desenvolvimento frontend com a stack React, mas os desafios de na criação do backend é bem interesse, adoro um desafio. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais e até mesmo me arriscar no backend. Estou procurando formas de contribuir e engajar para com a comunidade.
 </p>
 
 - 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho 
