@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas! <br> Desenvolvedor fullstack em formação, com foco no desenvolvimento frontend</h1>
+<h1 align="center">Olá, eu sou o Lucas! <br> Desenvolvedor fullstack, com foco no desenvolvimento frontend</h1>
 <p align="center">
   <a href="https://br.linkedin.com/in/lucas-braz-dutra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,12 +15,13 @@
 </p>
 
 <p>
-  Faço parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack jr, tenho mais afinidade com o desenvolvimento frontend com a stack React, mas os desafios na criação do backend é bem interesse, adoro um desafio. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais e até mesmo me arriscar no backend. Estou procurando formas de contribuir e engajar para com a comunidade.
+  Fiz parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack JR, atualmente trabalho na RPC como analista de sistemas JR. Tenho mais afinidade com o desenvolvimento frontend com a stack React e Next, mas os desafios na criação do backend é bem interesse, adoro um desafio e com isso também trabalho com Node e Nestjs. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais. Estou procurando formas de contribuir e engajar para com a comunidade.
 </p>
-
-- 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho 
-- 🌱 Cursando desenvolvimento fullstack pela <a href="https://www.recodepro.org.br/">Recode Pro</a> e estudando React
+<!--
+/*- 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho */ -->
+- 🌱 Cursando tecnologia da informa e comunicação pela FAETERJ Petrópolis
 - 🤔 Procurando ser mais ativo na comunidade dev tanto para aprender mais, quanto para ajudar de alguma forma e aumentar o networking
+- ⚡ No meu tempo livre caço XP em RPG 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Braz7x&show_icons=true&theme=radical)
 
