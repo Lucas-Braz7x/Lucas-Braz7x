@@ -15,13 +15,13 @@
 </p>
 
 <p>
-  Fiz parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack JR, atualmente trabalho na RPC como analista de sistemas JR. Tenho mais afinidade com o desenvolvimento frontend com a stack React e Next, mas os desafios na criação do backend é bem interesse, adoro um desafio e com isso também trabalho com Node e Nestjs. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais. Estou procurando formas de contribuir e engajar para com a comunidade.
+  Fiz parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack JR, atualmente trabalho na RPC como analista de sistemas JR. Tenho mais afinidade com o desenvolvimento frontend com a stack React e Next, mas os desafios na criação do backend são bem interessantes, adoro um desafio e com isso também trabalho com Node e Nestjs. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais. Estou procurando formas de contribuir e engajar para com a comunidade.
 </p>
 <!-- - 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho */ -->
 <ul>
   <li>🌱 Cursando tecnologia da informa e comunicação pela FAETERJ Petrópolis</li>
   <li>🤔 Procurando ser mais ativo na comunidade dev tanto para aprender mais, quanto para ajudar de alguma forma e aumentar o networking</li>
-  <li>⚡ No meu tempo livre caço XP em RPG </li>
+  <li>⚡ No meu tempo livre caço XP em RPG ou uma bela vista de uma montanha </li>
 </ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Braz7x&show_icons=true&theme=radical)
