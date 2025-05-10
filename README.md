@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas! <br> Desenvolvedor fullstack, com foco no desenvolvimento frontend</h1>
+<h1 align="center">Eaew, eu sou o Lucas 👋! <br> Desenvolvedor fullstack 🦆</h1>
 <p align="center">
   <a href="https://br.linkedin.com/in/lucas-braz-dutra">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -6,23 +6,23 @@
   <a href="https://www.instagram.com/tchubiross/">
    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://discord.com/channels/@Tchubiro#8011">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="display:inline;"/>
-  </a>
-  <a href="https://www.facebook.com/Tchubiro">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
 </p>
 
-<p>
-  Fiz parte da Recode Pro 2021, o programa visa formar desenvolvedores fullstack JR, atualmente trabalho na RPC como analista de sistemas JR. Tenho mais afinidade com o desenvolvimento frontend com a stack React e Next, mas os desafios na criação do backend são bem interessantes, adoro um desafio e com isso também trabalho com Node e Nestjs. Sou apaixonado por descobrir novas funcionalidades, formas diferentes de fazer a mesma coisa e criar animações. Quando posso gosto de me desafiar e me aventurar em projetos pessoais. Estou procurando formas de contribuir e engajar para com a comunidade.
-</p>
-<!-- - 🔭 Atualmente, estou procurando uma oportunidade para ingressar no mercado de trabalho */ -->
-<ul>
-  <li>🌱 Cursando tecnologia da informa e comunicação pela FAETERJ Petrópolis</li>
-  <li>🤔 Procurando ser mais ativo na comunidade dev tanto para aprender mais, quanto para ajudar de alguma forma e aumentar o networking</li>
-  <li>⚡ No meu tempo livre caço XP em RPG ou uma bela vista de uma montanha </li>
-</ul>
+🎯 Desenvolvedor fullstack com formação pela **Recode Pro 2021**, atualmente atuando como **Analista de Sistemas Jr. na RPC**.  
+Embora tenha maior afinidade com o desenvolvimento **frontend** utilizando **React** e **Next.js**, também me interesso profundamente pelos desafios do **backend**, trabalhando com **Node.js** e **NestJS**.
+
+🚀 Curioso por natureza, sou movido por desafios técnicos e apaixonado por aprender novas abordagens, explorar funcionalidades inusitadas e dar vida às interfaces com animações.  
+Gosto de mergulhar em projetos pessoais que me tirem da zona de conforto e expandam meu repertório técnico.
+
+## 🌱 Sobre mim
+
+- 🎓 Cursando **Tecnologia da Informação e Comunicação** pela FAETERJ Petrópolis  
+- 🤝 Buscando ser mais ativo na comunidade dev — para compartilhar conhecimento, aprender com outros profissionais e ampliar meu networking  
+- ⚡ No tempo livre, estou em busca de **XP em RPG** ou de uma **vista inspiradora no alto de uma montanha**
+
+### Fun fact  
+🦆 Adoro explorar novas ideias como um pato curioso em um novo lago.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Braz7x&show_icons=true&theme=radical)
 
@@ -52,17 +52,3 @@
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </p>
-<!--
-**Lucas-Braz7x/Lucas-Braz7x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
