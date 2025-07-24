@@ -8,8 +8,7 @@
   </a>
 </p>
 
-🎯 Desenvolvedor fullstack com formação pela **Recode Pro 2021**, atualmente atuando como **Analista de Sistemas Jr. na RPC**.  
-Embora tenha maior afinidade com o desenvolvimento **frontend** utilizando **React** e **Next.js**, também me interesso profundamente pelos desafios do **backend**, trabalhando com **Node.js** e **NestJS**.
+🎯 Desenvolvedor fullstack com formação pela Recode Pro 2021, atualmente atuando como Analista de Sistemas Jr. na RPC. Tenho afinidade com o desenvolvimento frontend, especialmente com React e Next.js, mas também aprecio os desafios do backend, onde atuo com Node.js, Express, Fastify e NestJS. Gosto de trabalhar nas duas camadas e busco sempre evoluir como desenvolvedor completo.
 
 🚀 Curioso por natureza, sou movido por desafios técnicos e apaixonado por aprender novas abordagens, explorar funcionalidades inusitadas e dar vida às interfaces com animações.  
 Gosto de mergulhar em projetos pessoais que me tirem da zona de conforto e expandam meu repertório técnico.
