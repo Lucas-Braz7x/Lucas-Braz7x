@@ -15,7 +15,7 @@ Gosto de mergulhar em projetos pessoais que me tirem da zona de conforto e expan
 
 ## 🌱 Sobre mim
 
-- 🎓 Cursando **Tecnologia da Informação e Comunicação** pela FAETERJ Petrópolis  
+- 🎓 Formado em  **Tecnologia da Informação e Comunicação** pela FAETERJ Petrópolis  
 - 🤝 Buscando ser mais ativo na comunidade dev, para compartilhar conhecimento, aprender com outros profissionais e ampliar meu networking  
 - ⚡ No tempo livre, estou em busca de **XP em RPG** ou de uma **vista inspiradora no alto de uma montanha**
 
